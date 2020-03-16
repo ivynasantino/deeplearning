@@ -39,9 +39,17 @@
 
 #### Gradient descent
 
+- [Gradient checking](https://towardsdatascience.com/coding-neural-network-gradient-checking-5222544ccc64)
+
 #### Activation function
 
+- [Softmax](https://medium.com/data-science-bootcamp/understand-the-softmax-function-in-minutes-f3a59641e86d)
+
+- [Activation functions](https://medium.com/@himanshuxd/activation-functions-sigmoid-relu-leaky-relu-and-softmax-basics-for-neural-networks-and-deep-8d9c70eed91e)
+
 #### Backpropagation
+
+- [Forward propagation and backpropagation](https://towardsdatascience.com/coding-neural-network-forward-propagation-and-backpropagtion-ccf8cf369f76)
 
 #### Hyperparameters
 
@@ -50,5 +58,9 @@
 #### Regularization
 
 #### Dropout
+
+#### Overfitting
+
+- [Reduce overfitting](https://towardsdatascience.com/handling-overfitting-in-deep-learning-models-c760ee047c6e)
 
 
