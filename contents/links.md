@@ -15,6 +15,8 @@
 - [Dropout](#dropout)
 - [Overfittinng](#overfitting)
 - [Mini-batch](#minibatch)
+- [RMSprop](#rmsprop)
+- [Optimization](#optimization)
 
 #### Neural network
 - [Build your first neural network - Keras](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
@@ -71,4 +73,12 @@
 
 - [Intro mini batch](https://machinelearningmastery.com/gentle-introduction-mini-batch-gradient-descent-configure-batch-size/)
 
+#### RMSprop
 
+- [RMSprop](https://towardsdatascience.com/understanding-rmsprop-faster-neural-network-learning-62e116fcf29a)
+
+- [Gradient desc and RMSprop](https://towardsdatascience.com/a-look-at-gradient-descent-and-rmsprop-optimizers-f77d483ef08b)
+
+#### Optimization
+
+- [Adam](https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/)
