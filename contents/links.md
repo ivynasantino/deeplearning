@@ -13,6 +13,8 @@
 - [Bias vs Variance](#biasvsvariance)
 - [Regularization](#regularization)
 - [Dropout](#dropout)
+- [Overfittinng](#overfitting)
+- [Mini-batch](#minibatch)
 
 #### Neural network
 - [Build your first neural network - Keras](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
@@ -62,5 +64,11 @@
 #### Overfitting
 
 - [Reduce overfitting](https://towardsdatascience.com/handling-overfitting-in-deep-learning-models-c760ee047c6e)
+
+#### Mini-batch
+
+- [Mini batch vs batch](https://towardsdatascience.com/batch-mini-batch-stochastic-gradient-descent-7a62ecba642a)
+
+- [Intro mini batch](https://machinelearningmastery.com/gentle-introduction-mini-batch-gradient-descent-configure-batch-size/)
 
 
