@@ -2,15 +2,15 @@
 
 ### Summary
 
-- [Deep learning - intro](#deep learning)
-- [Neural network](#neural network)
-- [Logistic regression](#logistic regression)
-- [Loss function](#loss function)
-- [Gradient descent](#gradient descent)
-- [Activation function](#activation function)
+- [Deep learning - intro](#deeplearning)
+- [Neural network](#neuralnetwork)
+- [Logistic regression](#logisticregression)
+- [Loss function](#lossfunction)
+- [Gradient descent](#gradientdescent)
+- [Activation function](#activationfunction)
 - [Backpropagation](#backpropagation)
 - [Hyperparameters](#hyperparameters)
-- [Bias vs Variance](#bias vs variance)
+- [Bias vs Variance](#biasvsvariance)
 - [Regularization](#regularization)
 - [Dropout](#dropout)
 
