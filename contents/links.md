@@ -57,6 +57,8 @@
 
 #### Hyperparameters
 
+- [Hyperparameters optimization](https://towardsdatascience.com/hyperparameters-optimization-526348bb8e2d)
+
 #### Bias vs Variance
 
 #### Regularization
@@ -82,3 +84,16 @@
 #### Optimization
 
 - [Adam](https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/)
+
+#### Hyperparameters tuning
+
+- [Hyperparameters tuning](https://towardsdatascience.com/hyperparameter-tuning-c5619e7e6624)
+
+
+#### Batch norm
+
+- [Batch norm](https://towardsdatascience.com/batch-normalization-in-neural-networks-1ac91516821c)
+
+
+
+
