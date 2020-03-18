@@ -94,6 +94,18 @@
 
 - [Batch norm](https://towardsdatascience.com/batch-normalization-in-neural-networks-1ac91516821c)
 
+#### Softmax
 
+- [Understand the Softmax Function in Minutes](https://medium.com/data-science-bootcamp/understand-the-softmax-function-in-minutes-f3a59641e86d)
 
+- [The Softmax Function, Simplified](https://towardsdatascience.com/softmax-function-simplified-714068bf8156)
 
+#### TensorFlow
+
+- [Treine sua primeira rede neural: classificação básica](https://www.tensorflow.org/tutorials/keras/classification?hl=pt-br)
+
+- [Classificação de texto com avaliações de filmes](https://www.tensorflow.org/tutorials/keras/text_classification?hl=pt-br)
+
+- [Regressão: Preveja consumo de combustível](https://www.tensorflow.org/tutorials/keras/regression?hl=pt-br)
+
+- [Overfit and underfit](https://www.tensorflow.org/tutorials/keras/overfit_and_underfit?hl=pt-br)
