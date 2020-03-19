@@ -109,3 +109,13 @@
 - [Regressão: Preveja consumo de combustível](https://www.tensorflow.org/tutorials/keras/regression?hl=pt-br)
 
 - [Overfit and underfit](https://www.tensorflow.org/tutorials/keras/overfit_and_underfit?hl=pt-br)
+
+#### ConvNet
+
+- [A Comprehensive Guide to Convolutional Neural Networks](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
+
+- [ConvNet for visual recognition](http://cs231n.github.io/convolutional-networks/)
+
+- [Types of CNN](https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d)
+
+
