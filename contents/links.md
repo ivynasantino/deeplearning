@@ -118,4 +118,7 @@
 
 - [Types of CNN](https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d)
 
+- [Convolution Vs Correlation](https://towardsdatascience.com/convolution-vs-correlation-af868b6b4fb5)
+
+- [Convolutional Neural Networks for Beginners](https://towardsdatascience.com/convolutional-neural-networks-for-beginners-practical-guide-with-python-and-keras-dc688ea90dca)
 
