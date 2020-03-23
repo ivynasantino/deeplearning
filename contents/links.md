@@ -122,3 +122,9 @@
 
 - [Convolutional Neural Networks for Beginners](https://towardsdatascience.com/convolutional-neural-networks-for-beginners-practical-guide-with-python-and-keras-dc688ea90dca)
 
+- [CNN - Architecture](https://medium.com/analytics-vidhya/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5)
+
+- [Resume Convnet week 2 - coursera](https://medium.com/datatype/deeplearning-ai-cnn-week-2-97e075f8c801)
+
+- [YOLO](https://towardsdatascience.com/yolo-you-only-look-once-real-time-object-detection-explained-492dc9230006)
+
